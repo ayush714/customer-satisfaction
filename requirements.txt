@@ -7,7 +7,7 @@ numpy==1.21.5
 optuna==2.10.0
 pandas==1.4.1
 requests==2.27.1
-rich==12.1.0
+rich
 scikit_learn==1.0.2
 streamlit==1.8.1
 tensorflow==2.8.0
